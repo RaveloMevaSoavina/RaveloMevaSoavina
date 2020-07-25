@@ -16,6 +16,6 @@
 Consider leaving a :star: for **[COVID-19](https://github.com/vinitshahdeo/COVID19/) :mask: [Tracker](https://github.com/vinitshahdeo/COVID19/) :india:** built by me! :hugs: <br>
 **Say Hi on Twitter([@Vinit_Shahdeo](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/RaveloMeva)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RaveloMeva?style=social)](https://twitter.com/RaveloMeva)
 
 
