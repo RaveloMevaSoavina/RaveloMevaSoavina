@@ -8,4 +8,5 @@ The green dots on my [**GitHub** profile](https://github.com/RaveloMevaSoavina/R
 - Outside of [GitHub](https://github.com/RaveloMevaSoavina), i share my best moment with friends and family 👬
 <br><br>
 **Say Hi on Twitter([@RaveloMeva](https://twitter.com/RaveloMeva))!** :heart: 💬
-[Twitter Follow](https://img.shields.io/twitter/follow/RaveloMeva?style=social)](https://twitter.com/RaveloMeva)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/RaveloMeva?style=social)](https://twitter.com/RaveloMeva)
