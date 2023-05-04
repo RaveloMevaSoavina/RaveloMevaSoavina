@@ -14,5 +14,5 @@ Ravelo Meva Soavina's goal is to continuously improve his skills and gain experi
 ## Find me around the web 🌎:
 
 - Visit my portfolio [ravelomevasoavina.vercel.app](https://ravelomevasoavina.vercel.app/) 📹 ✍🏾
-- You can follow me on  [](https://codepen.io/m0nica)[Twitter](https://twitter.com/RaveloMeva) 🏓
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/meva-ravelo-8a455120a/) 💼
+- You can follow me on [Twitter](https://twitter.com/RaveloMeva) 🏓
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/mevasoavinaravelo/) 💼
